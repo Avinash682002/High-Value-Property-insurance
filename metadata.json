@@ -1,0 +1,8 @@
+{
+  "name": "High_Value_PI",
+  "description": "An enterprise-grade Generative AI platform for high-value property insurance, featuring admin-governed guidelines, explainable risk intelligence, and executive decision summaries.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
